@@ -46,8 +46,9 @@ make
 
 ## 🧪 Run Instructions
 
+```bash
 ./parallel_scan <num_keys> <buckets> [--dump]
-
+```
 ---
 
 ## Sample output
